@@ -89,7 +89,7 @@ The project includes an interactive Streamlit interface where users can enter ap
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Credit-Wise-Loan-Approval-System.git
+git clone https://github.com/snehaahuja11/Credit-Wise-Loan-Approval-System.git
 ```
 
 ### 2. Navigate to the Project Directory
